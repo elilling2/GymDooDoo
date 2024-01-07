@@ -95,10 +95,11 @@
 </head>
 <body>
     <!-- Images added here -->
-    <img class="gym-image" id="arnoldImage" src="C:\Users\easto\OneDrive\Desktop\GymDooDoo\Arnold image.jpg" alt="Arnold Schwarzenegger">
-    <img class="gym-image" id="physique1Image" src="C:\Users\easto\OneDrive\Desktop\GymDooDoo\physique 1.jpg" alt="Physique 1">
-    <img class="gym-image" id="physique2Image" src="C:\Users\easto\OneDrive\Desktop\GymDooDoo\physique 2.jpg" alt="Physique 2">
-    <img class="gym-image" id="physique3Image" src="C:\Users\easto\OneDrive\Desktop\GymDooDoo\physique 3.jpg" alt="Physique 3">
+    <img class="gym-image" id="arnoldImage" src="images/Arnold image.jpg" alt="Arnold Schwarzenegger">
+    <img class="gym-image" id="physique1Image" src="images/physique 1.jpg" alt="Physique 1">
+    <img class="gym-image" id="physique2Image" src="images/physique 2.jpg" alt="Physique 2">
+    <img class="gym-image" id="physique3Image" src="images/physique 3.jpg" alt="Physique 3">
+    
  <h1>GymDooDoo by Easton Lilling</h1>
 
     <div id="timer">00:00:00</div>
